@@ -1,4 +1,4 @@
-# 🚀 HiTech Azure Case Study - Analyzing Cloud Adoption Funnel ☁️
+# 🚀 HiTech Azure Case Study - Analyzing Cloud Adoption Funnel ☁️ 
 
 
 ## 🔎 Objective

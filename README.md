@@ -36,8 +36,8 @@ The analysis focuses on participants moving through these key stages:
 
 * 📌 *60% drop-out rate* between Registered and Workshop Attended  
 * 📌 *16.67% drop-out rate* between Workshop Attended and Signed Up  
-* 📌 *30% drop-out rate* between Signed Up and Paid  
-* 📌 *Average time spent in the funnel:* 9.29 days  
+* 📌 *30% drop-out rate* between Signed Up and Paid.
+* 📌 *Average time spent in the funnel:* 9.29 days. 
 
 ---
 

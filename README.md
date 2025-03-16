@@ -79,9 +79,3 @@ These insights highlight the need for improved engagement strategies during work
 * ✅ *Automated reminder emails* and follow-up nudges after registration  
 * ✅ *Tailored workshop content* designed for academic and employed participants separately  
 * ✅ *Incentives to attend workshops* — such as certification badges or access to premium resources  
-
----
-
-## ✨ Discussion Point
-
-What strategies does your team use to **reduce dropouts** and **improve engagement** in learning programs? Let’s share insights in the comments!
